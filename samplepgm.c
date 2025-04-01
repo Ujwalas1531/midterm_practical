@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main() {   
+int main( )
+clrscr()
+ {   
     int number;
    
     printf("Enter an integer: ");  
